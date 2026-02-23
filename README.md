@@ -50,6 +50,8 @@ python generative_model_test.py
 
 Environment and generative model complete. Active inference agent currently in development. This is an ongoing independent learning project being built alongside study of the underlying theory.
 
+Incldued in most lines of code is detailed notes to both help myself and others understand each step. 
+
 # Background & Motivation
 
 Active inference is rooted in the Free Energy Principle developed by Karl Friston. The core idea is that biological agents act to minimize variational free energy — essentially minimizing the gap between what they expect and what they perceive. This project is my hands-on entry point into that framework, motivated by an interest in computational neuroscience and agent-based modeling.
