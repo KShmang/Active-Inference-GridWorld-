@@ -50,7 +50,7 @@ python generative_model_test.py
 
 Environment and generative model complete. Active inference agent currently in development. This is an ongoing independent learning project being built alongside study of the underlying theory.
 
-Incldued in most lines of code is detailed notes to both help myself and others understand each step. 
+Included in most lines of code is detailed notes to both help myself and others understand each step. 
 
 # Background & Motivation
 
